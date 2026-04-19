@@ -15,7 +15,7 @@ Sample Input
 3 4
 
 Sample Output
-NOT CONNECTED code in dsa*/
+NOT CONNECTED*/
 
 #include <stdio.h>
 
